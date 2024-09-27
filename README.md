@@ -8,3 +8,8 @@ if num < 12:#"if"para que los numeros menores a 12 den esta opcion.
     print("Tu numero es :", num)#Tee saldraa estee mensaje si el numero que pusiste ees menor o igual a 12.
 else:#"else"si eliges un numero mayor a 12.
     print("Ese valor no esta dentro de los limites")
+
+![image](https://github.com/user-attachments/assets/cd561182-368c-475b-9ab4-f7a911326300)
+
+![image](https://github.com/user-attachments/assets/215a66c1-05ea-47fb-b6a1-480ae351f74d)
+
